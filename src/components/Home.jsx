@@ -9,8 +9,8 @@ export default function Home() {
           <ul>
             <li className="p-4"><Link to="General">General</Link></li>
             <li className="p-4"><Link to="Users">Users</Link></li>
-            <li className="p-4"><Link to="/Settings">Settings</Link></li>
-            <li className="p-4"><Link to="/LogOut">LogOut</Link></li>
+            <li className="p-4"><Link to="Settings">Settings</Link></li>
+            <li className="p-4"><Link to="LogOut">LogOut</Link></li>
           </ul>
         </div>
       </div>
